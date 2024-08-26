@@ -1,11 +1,16 @@
 {
 	"curseFiles": [
-	    {
+    {
       "projectID": 263420,
       "fileID": 5637012,
       "required": true
     },
 	    {
+      "projectID": 561885,
+      "fileID": 3869607,
+      "required": true
+    },
+    {
       "projectID": 634942,
       "fileID": 4403145,
       "required": true
